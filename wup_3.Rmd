@@ -83,5 +83,6 @@ print(tukey_result)
 
 
 ## Conclusions
-
+  
+Out of all these plots, the back people seem to consume more alcohol than the front and back people. Each plot gives us a different formula and way of reading each plot but with similar data results. The last 2 plots give us data by saying front-back, middle-back and middle-front, makes it more specific to where the people sat and which people had the more alcohol. The front-back seem to still have the higher numbers than the middle-front, but close to the middle-back. 
 

@@ -58,7 +58,10 @@ summary.aov(model1)
 ```{r}
 plot(TukeyHSD(model1))
 ```
-  
+   
+The front-back people in this chart vary between -13 and -4. The middle-front vary between -3 to 5.2 which still is behind the front-back people by a slight amount. The mean levels are close to the same between the front-back and middle-back by a close amount. 
+
+ 
 ```{r}
 # Load the necessary library
 library(stats)
